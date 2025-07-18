@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there+👋+I'm+Syed+Ayaan;Flutter+Developer+%7C+App+Builder+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</p>
 
 # 💫 About Me:
 
